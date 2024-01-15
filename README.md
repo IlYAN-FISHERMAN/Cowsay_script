@@ -27,10 +27,19 @@ function cowsayfortune
 
 cowsayfortune
 ```
-
+## Prérequis
 ```bash
-brewy install cowsay && brew install fortune
+brew install cowsay && brew install fortune
 ```
 ## Clone le repos
 ```bash
 git clone https://github.com/IlYAN-FISHERMAN/Cowsay_scrypt.git
+```
+## Installation
+- Clonez le repos
+- Mettez le dossier .cowsay au meme endroit que votre .zshrc
+- Mettez le script dans votre .zshrc
+pour finir :
+```bash
+source .zshrc
+```
