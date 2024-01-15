@@ -1,14 +1,21 @@
 # Terminal Cowsay Script
 
-## Description
+Welcome to the Terminal Cowsay Script repository! This simple script adds a touch of fun to your terminal experience by displaying a whimsical greeting in the form of a speech bubble from a .cow file every time you open the terminal.
 
-Ce script simple sert à afficher un message de bienvenue sous forme de bulle de pensée d'un fichier .cow à chaque ouverture du terminal.
+## Features
 
-## Fonctionnalités
+- Displays an entertaining cowsay greeting upon each terminal opening.
 
-- Affiche une salutation amusante avec un cowsay à chaque ouverture du terminal.
+## Usage
 
-## Code
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/IlYAN-FISHERMAN/Cowsay_scrypt.git
+    ```
+
+2. **Move the `.cowsay` folder to the same location as your `.zshrc` file.**
+
+3. **Add the following script to your `.zshrc` file:**
 ```bash
 #!/bin/bash
 
@@ -26,20 +33,17 @@ function cowsayfortune
 }
 
 cowsayfortune
+
 ```
-## Prérequis
+4. **Source your `.zshrc` file:**
+    ```bash
+    source .zshrc
+    ```
+
+Now, each time you open your terminal, you'll be greeted with a delightful cowsay message!
+
+## Prerequisites
+
+Ensure you have `cowsay` and `fortune` installed:
 ```bash
 brew install cowsay && brew install fortune
-```
-## Clone le repos
-```bash
-git clone https://github.com/IlYAN-FISHERMAN/Cowsay_scrypt.git
-```
-## Installation
-- Clonez le repos
-- Mettez le dossier .cowsay au meme endroit que votre .zshrc
-- Mettez le script dans votre .zshrc
-- Pour finir :
-```bash
-source .zshrc
-```
