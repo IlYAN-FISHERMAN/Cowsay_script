@@ -1,0 +1,61 @@
+$the_cow = q[ 
+                \                                    @                  
+                 \                                 ; :                  
+                  \                               :.:it                 
+                   \     GGGGG                    :i.ii                 
+                    \  GCCGGCCG@                  .,,li                 
+                     \f,Ctl;:LCGi                  ;llf                 
+                     fC,:.  .iCGf                   l;l                 
+                     LGl, .,,:LGC                   t:;                 
+                     LC;l,..lfLGC                   f,,t                
+                     tL;:;:;itfGG                   f,.;                
+                     LC;:;,i:;lCC                   L..;                
+                      f:...:;,iCL                   L..:                
+;,.;                  i;,:,it:tC                    L..,                
+.,.i                   :;,,:litf                    l..,                
+;;.:                    :,;it:L@      ;;l           i..,                
+,.,f                    l,:;;;CL    :   . :f        ;..,t               
+.,f                      ;..;LCCL t;.  ..,,..itG@@@f:,,:l               
+,.l                      ilfCLfLti,.  ..,;:...   ..,;,,:t               
+;.,f  @@G       @@: l,, Cli::ll;   .:i;;.;ii:,,,,ii,,,::t               
+ ..i   @@.    ;@# i@@@:@l@@@@@@,:@@@@@@ :@@@:;:,;lfi:,:it               
+ ..i   ,@@   :@t .@l;@:, :;@t,, .,#@;,  @#;@:;::;@iiilf                 
+ . ,   .@@,f@@,  @@  @l: .;@$,   .#I; .I@, @i; ':@@t                    
+ . .l   ;@@@@:i l@i  @t, .R@i.   ;@$, ,@;  @I'  $@:                     
+ .  i   .@#@;, :#@   #I; ,@@:.   ;@.  @@   @$:  #@$                      
+ .  ,    @@:  .I@$   l@: ,@$.   .l@, ;@$   #@. ;@@                      
+  .  :   #@  . #@,   :@, .@l    ,@$. I@.   \#,  @.                      
+  .  .  ;@;.  #@..,uvl@, t@P    R@:.,@l ,vvv@l , '                      
+    ..: #@,. :if l@@@@@. Lt,   ..L:.:@  @@@@@t @@                ,  ,   
+  , .,;,::,..:ili,.;l;::.;;.   .,;:.::.:iiiL                   ,   .,i  
+  L,,,:.......,if, ;.;,,, .          ..,:it                       .,:iL 
+   ;,,,.....,;tl     ,:,,..;,        ..,;ill                     .,;iiL,
+   l:...,:;lt         ,:,,.,.      .....:;ll:            ,   ....,iltlL;
+    tffLL              :;,,..       ....,;ili:              ...,:iffttLL.
+                        ;;,..       ...,:;ili;l       . . ....,;lfffttLL,
+                         i,,....   ....,,;;i;;i     ,.......,:ittfffllCC;
+                          ;,,...........,:;i;;i. .,, .....,::iiiitCt;iLCL.
+                           ;,,........,..,;i;l,   ......,,,:;iilf Ci;iLLi;
+                           @;:,,.,.......,:;ii    ....,,,,,,:;lf  f;;iCCL;
+                            l;:::,......:,:il,    ,,,,,,,,,,:iL   iiiiLLt;.
+                             i;;:,,....,,:ili..   :,,,,,,,,,i     ifllCCLt,
+                              i;:,.....,,;tLLi.Cl,:..,,,,,:i       GffCRLi;
+                               i::,,,,,:;..GGf:GGC:::::::if        GfGCML,;.
+                                i::,,,::;RL.GG.GG.;iflli;          GGGCR,.t,
+                                 ;;::::::lCGGGCC.v;fGCfi           lLfCR,;',
+                                  li;;;:.;L.CCC.CGLLfCL             flCC,;:,
+                                   tll:. ,lC.'CCC.LllCC             tlLLc,:,
+                                    ,     iLCLGG.GLttC               ;LCi;,,
+                                          ;..GGGGGLLtL               ,tCfi;,
+                                    ,      iC..GGCLf                  itCtRC
+                                    t       ;LGCCCC@                  .vCMtre,,..
+                                     i,,,,::iLlLCCf                    ,VCRMfTTTTrm
+                                     i,,,,::;tGP                        .URP^'
+                                     'i,,,:;TGC"                          
+                                      ;,,.;TGCR"
+                                      ;v,,uTGCP'
+                                      ,PLvRCCGL
+                                      .GfctTGCG
+                                       McffllCC
+                                       ;CflrrCr.
+]
