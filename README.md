@@ -12,7 +12,9 @@ Ce script simple sert à afficher un message de bienvenue sous forme de bulle de
 
 - Le script utilise le programme `cowsay` et `fortune`. Assurez-vous de les avoir installés sur votre système.
 
-  ```bash
-  brewy install cowsay && brew install fortune
+```bash
+brewy install cowsay && brew install fortune
+```
+## Clone le repos
 ```bash
 git clone https://github.com/IlYAN-FISHERMAN/Cowsay_scrypt.git
