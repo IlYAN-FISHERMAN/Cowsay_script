@@ -26,8 +26,6 @@ function cowsayfortune
 }
 
 cowsayfortune
-
-echo "Bienvenue dans votre terminal avec Cowsay !"
 ```
 
 ```bash
