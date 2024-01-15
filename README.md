@@ -39,7 +39,7 @@ git clone https://github.com/IlYAN-FISHERMAN/Cowsay_scrypt.git
 - Clonez le repos
 - Mettez le dossier .cowsay au meme endroit que votre .zshrc
 - Mettez le script dans votre .zshrc
-pour finir :
+- Pour finir :
 ```bash
 source .zshrc
 ```
