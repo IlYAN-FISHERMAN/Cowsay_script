@@ -1,20 +1,16 @@
 # Terminal Cowsay Script
 
-![Cowsay Logo](cowsay_logo.png)
-
 ## Description
 
-Ce script simple sert à afficher un message de bienvenue sous forme de bulle de pensée d'une vache (cowsay) à chaque ouverture du terminal.
+Ce script simple sert à afficher un message de bienvenue sous forme de bulle de pensée d'un fichier .cow à chaque ouverture du terminal.
 
 ## Fonctionnalités
 
-- Affiche une salutation amusante avec une vache à chaque ouverture du terminal.
-- Personnalisation du message de bienvenue.
+- Affiche une salutation amusante avec un cowsay à chaque ouverture du terminal.
 
 ## Prérequis
 
-- Le script utilise le programme `cowsay`. Assurez-vous de l'avoir installé sur votre système.
+- Le script utilise le programme `cowsay` et `fortune`. Assurez-vous de les avoir installés sur votre système.
 
   ```bash
-  # Exemple pour Linux (utilisant APT)
-  sudo apt-get install cowsay
+  brewy install cowsay && brew install fortune
