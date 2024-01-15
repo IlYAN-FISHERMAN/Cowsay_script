@@ -8,9 +8,27 @@ Ce script simple sert à afficher un message de bienvenue sous forme de bulle de
 
 - Affiche une salutation amusante avec un cowsay à chaque ouverture du terminal.
 
-## Prérequis
+## Code
+```bash
+#!/bin/bash
 
-- Le script utilise le programme `cowsay` et `fortune`. Assurez-vous de les avoir installés sur votre système.
+COWPATH="$COWPATH:$HOME/.cowsay/cowfiles/"
+
+# Cow-spoken fortunes every time you open a terminal
+function cowsayfortune
+{
+    NUMOFCOWS=`cowsay -l | tail -n +2 | wc -w`
+    WHICHCOW=$((RANDOM%$NUMOFCOWS+1))
+    THISCOW=`cowsay -l | tail -n +2 | sed -e 's/\ /\'$'\n/g' | sed $WHICHCOW'q;d'`
+
+    #echo "Selected cow: ${THISCOW}, from ${WHICHCOW}"
+    fortune | cowsay -f $THISCOW -W 100
+}
+
+cowsayfortune
+
+echo "Bienvenue dans votre terminal avec Cowsay !"
+```
 
 ```bash
 brewy install cowsay && brew install fortune
