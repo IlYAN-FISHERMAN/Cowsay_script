@@ -14,3 +14,5 @@ Ce script simple sert à afficher un message de bienvenue sous forme de bulle de
 
   ```bash
   brewy install cowsay && brew install fortune
+```bash
+## Utilisation
