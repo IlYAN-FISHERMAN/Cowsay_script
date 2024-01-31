@@ -14,8 +14,9 @@ Welcome to the Terminal Cowsay Script repository! This simple script adds a touc
     ```
 
 2. **Move the `.cowsay` folder to the same location as your `.zshrc` file.**
+3. **Do `cowsay -l` end `cp` all your `.cow` file in the path you get with the command.
 
-3. **Add the following script to your `.zshrc` file:**
+4. **Add the following script to your `.zshrc` file:**
 ```bash
 #!/bin/bash
 
