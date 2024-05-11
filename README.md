@@ -38,7 +38,7 @@ cowsayfortune
 ```
 4. **Source your `.zshrc` file:**
     ```bash
-    source .zshrc
+    source ~/.zshrc
     ```
 
 Now, each time you open your terminal, you'll be greeted with a delightful cowsay message!
